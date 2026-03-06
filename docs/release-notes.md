@@ -6,6 +6,17 @@ hide:
 
 # 📌 Release Notes
 
+## v6.0.1 (2026-03-06)
+
+<!-- Release notes generated using configuration in .github/release.yml at v6.0.1 -->
+
+## What's Changed
+### 🐛 Fixes
+* fix: add log_at to beans_logging exports by @bybatkhuu in https://github.com/bybatkhuu/module-fastapi-logging/pull/22
+
+
+**Full Changelog**: https://github.com/bybatkhuu/module-fastapi-logging/compare/v6.0.0...v6.0.1
+
 ## v6.0.0 (2026-03-06)
 
 <!-- Release notes generated using configuration in .github/release.yml at v6.0.0 -->
