@@ -6,6 +6,17 @@ hide:
 
 # 📌 Release Notes
 
+## v6.0.0 (2026-03-06)
+
+<!-- Release notes generated using configuration in .github/release.yml at v6.0.0 -->
+
+## What's Changed
+### 💥 Breaking Changes
+* feat!: refactor logging configuration and update documentation by @bybatkhuu in https://github.com/bybatkhuu/module-fastapi-logging/pull/21
+
+
+**Full Changelog**: https://github.com/bybatkhuu/module-fastapi-logging/compare/v5.2.2...v6.0.0
+
 ## v5.2.2 (2026-02-27)
 
 <!-- Release notes generated using configuration in .github/release.yml at v5.2.2 -->
