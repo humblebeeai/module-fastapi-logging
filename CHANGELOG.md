@@ -1,5 +1,16 @@
 # Changelog
 
+## v6.0.4 (2026-03-13)
+
+<!-- Release notes generated using configuration in .github/release.yml at v6.0.4 -->
+
+## What's Changed
+### 📦 Dependencies
+* fix: update beans-logging version to 11.0.2 in requirements by @bybatkhuu in https://github.com/bybatkhuu/module-fastapi-logging/pull/25
+
+
+**Full Changelog**: https://github.com/bybatkhuu/module-fastapi-logging/compare/v6.0.3...v6.0.4
+
 ## v6.0.3 (2026-03-13)
 
 <!-- Release notes generated using configuration in .github/release.yml at v6.0.3 -->
