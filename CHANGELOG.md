@@ -1,5 +1,16 @@
 # Changelog
 
+## v6.0.3 (2026-03-13)
+
+<!-- Release notes generated using configuration in .github/release.yml at v6.0.3 -->
+
+## What's Changed
+### 🐛 Fixes
+* fix: increase logger binding depth for improved context in HTTP error… by @bybatkhuu in https://github.com/bybatkhuu/module-fastapi-logging/pull/24
+
+
+**Full Changelog**: https://github.com/bybatkhuu/module-fastapi-logging/compare/v6.0.2...v6.0.3
+
 ## v6.0.2 (2026-03-12)
 
 <!-- Release notes generated using configuration in .github/release.yml at v6.0.2 -->
